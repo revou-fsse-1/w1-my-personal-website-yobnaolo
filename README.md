@@ -4,13 +4,15 @@
 
 <p align="center"> <img src=images/bopb.jpeg width= 200 height= 260 /> </p>
 
-To know more about my website, please clink onto the following [link](https://yobnaolo.netlify.app/)
+To know more about my website, please click onto the following [link](https://yobnaolo.netlify.app/)
 
-<p>Basically, this is the combination using HTML, CSS, and a bit of JavaScript</p>
+<p>Basically, this is the combination of using HTML, CSS, and a bit of JavaScript</p>
 
-### Pages
+## Pages
 
 - Home
-- Login
-- About
 - Contact
+
+## Screenshot
+
+![screenshot of my website](images/screenshot-of-web.png)
